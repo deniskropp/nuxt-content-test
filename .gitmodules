@@ -1,0 +1,3 @@
+[submodule "modules/nuxt-kick-it"]
+	path = modules/nuxt-kick-it
+	url = git@github.com:deniskropp/nuxt-kick-it
